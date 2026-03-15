@@ -1,5 +1,5 @@
 
-# Hi, I'm Francis Izuoba 👋
+# Hi, I'm �
 Founder of nTells | Web Developer | Digital Marketer
 
 💻 Tech Stack
@@ -17,14 +17,14 @@ Founder of nTells | Web Developer | Digital Marketer
 - nTells Class – Digital training platform
 
 
-📚 I'm currently learning advanced Laravel and mobile apps with NativePHP
+📚 I'm currently learning advanced Laravel and mobile apps with NaNativePHP
 
-- 🤔 I’m looking to collacollaborate
-- - 💬 Ask me about ...
-- 📫 How to reach me: .me
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🤔 I’m looking to collaborate with a tech company on a new project.
 
+📫 How to reach me:
+🌍 Website: https://ontells.com
+Email: francis@ontells.com
+Contact: +2348072739995
 
-🌍 Website
-https://ontells.com
+⚡ Fun fact: Did you know?
+I don't just build software, I build for impact. Because of my background in Digital Marketing, I approach every line of code with a "user-first" mindset, ensuring that performance metrics, SEO, and accessibility aren't just afterthoughts, they are the foundation.
