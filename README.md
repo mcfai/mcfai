@@ -1,8 +1,9 @@
 
-# Hi, I'm �
+# Hi, I'm Francis 👋🏽
 Founder of nTells | Web Developer | Digital Marketer
 
 💻 Tech Stack
+
 - HTML
 - CSS
 - JavaScript
@@ -12,6 +13,7 @@ Founder of nTells | Web Developer | Digital Marketer
 - Laravel
 
 🚀 Projects
+
 - OnlineOfficeSites – Business websites platform
 - Inventory Web App – Stock management system
 - nTells Class – Digital training platform
