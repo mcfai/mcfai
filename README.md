@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**mcfai/mcfai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Francis Izuoba 👋
+Founder of nTells | Web Developer | Digital Marketer
 
-Here are some ideas to get you started:
+💻 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- WordPress
+- Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+🚀 Projects
+- OnlineOfficeSites – Business websites platform
+- Inventory Web App – Stock management system
+- nTells Class – Digital training platform
+
+
+📚 I'm currently learning advanced Laravel and mobile apps with NativePHP
+
+- 🤔 I’m looking to collacollaborate
+- - 💬 Ask me about ...
+- 📫 How to reach me: .me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+🌍 Website
+https://ontells.com
